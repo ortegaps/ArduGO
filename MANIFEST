@@ -1,0 +1,6 @@
+COPYING
+setup.py
+activity.py
+activity/activity-helloworld.svg
+activity/activity.info
+po/HelloWorld.pot

@@ -1,0 +1,7 @@
+[Activity]
+name = ArduGO
+activity_version = 1
+bundle_id = org.sugarlabs.Ardugo
+exec = sugar-activity activity.Ardugo
+icon = activity-ardugo
+license = GPLv2+
