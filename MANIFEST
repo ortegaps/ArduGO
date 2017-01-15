@@ -1,6 +1,11 @@
 COPYING
 setup.py
 activity.py
-activity/activity-helloworld.svg
+activity/activity-ardugo.svg
 activity/activity.info
-po/HelloWorld.pot
+ardu.svg
+inicio.svg
+po/ArduGO.pot
+po/po.es
+arduino-1.0.5-6.fc20.noarch.rpm
+pyserial-2.7-1.fc20.noarch.rpm
